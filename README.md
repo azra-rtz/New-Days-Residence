@@ -34,6 +34,6 @@ New Days Residence, the Rental Estate Tracker, empowers users with a suite of es
      6. Save the changes to the `settings.json` file.
      7. Reload your VS Code window.
 
-By following these steps, you can configure the build path for JAR files in different IDEs, including Eclipse, IntelliJ, and Visual Studio Code.
+   By following these steps, you can configure the build path for JAR files in different IDEs, including Eclipse, IntelliJ,       and Visual Studio Code.
 
 3. Download the files in this repository.
