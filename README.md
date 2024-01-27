@@ -1,5 +1,7 @@
 # New-Days-Residence
-![LOADING_PAGE](https://github.com/kittyhae/New-Days-Residence/assets/134063953/8f32fabb-8211-43b6-aecb-f00c5027a261)
+<div align="center">
+  <img src="https://github.com/kittyhae/New-Days-Residence/assets/134063953/8f32fabb-8211-43b6-aecb-f00c5027a261" alt="LOADING_PAGE">
+</div>
 New Days Residence, the Rental Estate Tracker, empowers users with a suite of essential features. These include the ability to effortlessly add or remove apartments, facilitate property leases, manage property vacancies, and oversee transactions, providing a streamlined solution for effective and user-friendly rental property management.
 
 ## How to use
