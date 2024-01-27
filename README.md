@@ -1,2 +1,2 @@
 # New-Days-Residence
-Developed collaboratively by Marlo Ortiz and Fiona Andrea Faller for DCIT 50 - Object-Oriented Programming, their final project, submitted on July 15, 2023, serves as a straightforward yet effective tool for tracking rental properties.
+New Days Residence, the Rental Estate Tracker, empowers users with a suite of essential features. These include the ability to effortlessly add or remove apartments, facilitate property leases, manage property vacancies, and oversee transactions, providing a streamlined solution for effective and user-friendly rental property management.
