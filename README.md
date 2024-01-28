@@ -33,10 +33,11 @@ New Days Residence, the Rental Estate Tracker, empowers users with a suite of es
         ```json
         {
             "java.project.referencedLibraries": [
-                "TimingFramework-0.55.jar",
-                "jackson-core-2.16.1.jar",
-                "jackson-annotations-2.16.1.jar",
-                "jackson-databind-2.16.1.jar"
+              "lib/**/*.jar",
+              "jackson-annotations-2.16.1.jar",
+              "jackson-core-2.16.1.jar",
+              "jackson-databind-2.16.1.jar",
+              "TimingFramework-0.55.jar"
             ]
         }
         ```
