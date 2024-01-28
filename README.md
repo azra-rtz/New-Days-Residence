@@ -8,11 +8,13 @@ New Days Residence, the Rental Estate Tracker, empowers users with a suite of es
 
 ## How to use
 
-1. **Install JAR Files:**
+1. **Download the files in this repository.**
+   
+2. **Install JAR Files:**
    - Ensure all required JAR files are available for the New Days Residence application.
    - Copy the necessary JAR files into the project directory.
 
-2. **Configure Build Path:**
+3. **Configure Build Path:**
    - If using an IDE like Eclipse or IntelliJ, configure the build path to include the JAR files.
      - For Eclipse:
        1. Right-click on the project.
@@ -40,4 +42,4 @@ New Days Residence, the Rental Estate Tracker, empowers users with a suite of es
      6. Save the changes to the `settings.json` file.
      7. Reload your VS Code window.
 
-3. **Download the files in this repository.**
+4. **To run the program, go to "NDRESIDENCES" > "APP" > `NewDaysResidences.java`**
