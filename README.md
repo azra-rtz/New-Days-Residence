@@ -33,12 +33,13 @@ New Days Residence, the Rental Estate Tracker, empowers users with a suite of es
         ```json
         {
             "java.project.referencedLibraries": [
-                "lib/your-library1.jar",
-                "lib/your-library2.jar"
+                "TimingFramework-0.55.jar",
+                "jackson-core-2.16.1.jar",
+                "jackson-annotations-2.16.1.jar",
+                "jackson-databind-2.16.1.jar"
             ]
         }
         ```
-        Replace "your-library1.jar" and "your-library2.jar" with the actual names of your JAR files.
      6. Save the changes to the `settings.json` file.
      7. Reload your VS Code window.
 
